@@ -10,7 +10,8 @@ Inicio: Haz 10
 
 ## Proceso 
 
-si ((a<0) && (b>0)) || ((a>0) &&(b<0))
+suma= a+b
+si (a==10 || b==10 ||suma==10)
  	mostrar 1
 sino 
 	Mostrar 0
